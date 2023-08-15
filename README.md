@@ -2,7 +2,7 @@
 
 🦉 i am majoring in Computer Science + Data Science :)
 
-    📜 why did I choose both? Initially i chose to major in computer science because I want to challenge myself and pursue a career that would allow me to be a life long learner. i added DS to get variety in my skill set ;)
+❔ why did I choose both? Initially i chose to major in computer science because I want to challenge myself and pursue a career that would allow me to be a life long learner. i added DS to get variety in my skill set ;)
 
 🧠 current courses: CSCI 1133, Introduction to Programming Concepts, with python
 🌱 working on creating some projects and developing my skills!
