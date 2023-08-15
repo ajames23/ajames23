@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Mara! I'm an incoming freshman at the University of Minnesota- Twin Cities!
-- 👀 I’m interested in developing my personal projects!
-- 🌱 I’m currently learning Java and Python!
-- 📫 How to reach me- connect with me on LinkedIn https://www.linkedin.com/in/mara-d-7a869221a
-- 
+- 👋🏿 hi! my name is mara and i'm a freshman at the University of Minnesota, Twin Cities.
 
-<!---
-ajames23/ajames23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🦉 i am majoring in Computer Science + Data Science :)
+  - 📜 why did I choose both? Initially i chose to major in computer science because I want to challenge myself and pursue a career that would allow me to be a life long learner. i added DS to get variety in my skill set ;)
+
+- 🧠 current courses: CSCI 1133, Introduction to Programming Concepts, with python
+- 🌱 working on creating some projects and developing my skills!
+- 👥 want to connect? my LinkedIn https://www.linkedin.com/in/mara-d-7a869221a
+  - 💌 my email is dukul016@umn.edu
+    
+- 
